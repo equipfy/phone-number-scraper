@@ -1,4 +1,4 @@
-# Phone Scraper
+# Phone Number Scraper
 A hacky way to scrape phone numbers from a website.
 The text scraped is not "cleaned". So you might find weird long spaces, or characters such as `\t`.
 
