@@ -1,0 +1,17 @@
+{
+  "potentialElementsWithNumber": [
+    {
+      "element": "a",
+      "attr_value": "show_hide",
+      "attr": "id",
+      "clickable": true
+    },
+
+    {
+      "element": "span",
+      "attr_value": "phone_",
+      "attr": "class",
+      "clickable": false
+    }
+  ]
+}

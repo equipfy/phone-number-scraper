@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  },
+  "name": "phone-extractor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "equipify",
+  "license": "MIT",
+  "description": "A hacky way to scrape phone numbers from a website."
+}
